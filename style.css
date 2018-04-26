@@ -1,0 +1,76 @@
+body {
+font-family: 'Roboto', sans-serif;
+background-color: #EBEBEB;
+}
+
+h1 {
+  color: red;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+h2, h3, p {
+font-family: 'Montserrat', sans-serif;
+color: grey;
+}
+
+h4 {
+  text-align: left;
+}
+
+li {
+color: #FFFFFF,
+}
+
+tr {
+font-family: Arial;
+font-size: 1em;
+}
+.card {
+padding-top: 10px;
+background : white;
+width: 500px;
+margin: 0 auto;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+border-radius: 3px;
+}
+
+.about {
+color: grey;
+margin-top: 20px
+margin-left: auto;
+margin-right: auto;
+}
+
+.picture {
+  border: solid 3px red;
+  border-radius: 50%;
+}
+
+.picture1 {
+  border-radius: 50%;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.fa-lg {
+font-size: 38px !important;
+}
+
+a {
+text-decoration: grey;
+color : grey;
+}
+
+a:hover {
+color: red;
+}
+
+
+
+
